@@ -161,6 +161,9 @@ body {
     color: var(--main-color);
     box-shadow: 0 0 20px var(--main-color);
 }
+.profile-img{
+    border-radius: 50%;
+}
 
 /* ======== ALL SIMILAR CONTENT STYLING ======== */
 section {
